@@ -1,0 +1,13 @@
+{
+  "name": "toggl-tp",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Dmitriy Teplov <tplk@itplk.ru> (https://itplk.ru)",
+  "license": "MIT",
+  "main": "process-toggl-entries.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}
